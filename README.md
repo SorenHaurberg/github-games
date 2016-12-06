@@ -8,4 +8,4 @@ You can play the game at: http://SorenHaurberg.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-You should always branch dummy.
+You should always branch dummy. But sometimes a little cheating is ok.
